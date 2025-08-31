@@ -1,2 +1,6 @@
 # Week-1-
 Crop Yield Prediction uses machine learning models trained on Kaggle datasets to forecast crop yields based on weather, soil, and climate data. This project helps farmers and planners make smarter decisions, promoting sustainable agriculture by providing accurate, real-time yield estimates via an easy-to-use web app.
+ 
+week 1 progress report ----->
+
+In the first week, the project focused on collecting and exploring datasets essential for crop yield prediction. Key datasets from Kaggle include detailed crop production data across regions, combined with weather variables like rainfall, temperature, and soil quality metrics. Initial data cleaning identified missing values and outliers. Exploratory analysis helped uncover patterns correlating environmental factors to crop yields. Feature selection prioritized variables with strong predictive potential. Plans for preprocessing including normalization and handling missing data were developed. These foundational steps lay the groundwork for upcoming model training and evaluation phases.
